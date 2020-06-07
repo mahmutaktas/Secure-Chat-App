@@ -6,7 +6,7 @@ Developed By: **Deniz Arda GÜRZİHİN & Mahmut AKTAŞ**
 **Deniz Arda GÜRZİHİN**: 3, 4, 5  
 **Mahmut AKTAŞ**: 1, 2, 6
 
-![Demo Gif](https://github.com/mahmutaktas/Secure-Chat-App/blob/master/gif.mp4)
+![Demo Gif](https://github.com/mahmutaktas/Secure-Chat-App/blob/master/gif.gif)
 
 ## Properties
 
